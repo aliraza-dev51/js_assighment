@@ -128,13 +128,4 @@
 //     alert("Incorrect password.");
 // }
 
-// //chapter 12-13 //task 6
-// var greeting;
-// var hour = 13;
-
-// if (hour < 18) {
-//     greeting = "Good day";
-// } else {
-//     greeting = "Good evening";
-// }
 
